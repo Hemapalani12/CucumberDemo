@@ -1,6 +1,6 @@
 Feature: Demo dependency
 
-Scenario: Demo purpose
+Scenario: Google Demo purpose 
 
 Given user lands in google page
 When searches for books 
