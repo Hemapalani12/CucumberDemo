@@ -34,7 +34,7 @@ public void checkMsg()
 {
 	
 	String output=js.getMsg();
-	System.out.println(output);
+	System.out.println("message is "+output);
 }
 
 }

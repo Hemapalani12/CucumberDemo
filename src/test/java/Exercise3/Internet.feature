@@ -1,4 +1,4 @@
-Feature: Internet herokuapp
+Feature: Internet herokuapp website
 
 Scenario: Validating herokuapp checkboxes
 
